@@ -1,0 +1,1 @@
+Welcome to my collection of SQL practice files! This repository is designed to help users learn and practice SQL queries, database design, and manipulation techniques. It includes a variety of SQL files that cover basic to advanced concepts in SQL.
